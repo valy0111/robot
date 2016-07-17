@@ -220,7 +220,7 @@ function create_config( )
     "set",
     "get",
     "broadcast",
-    "download_media",
+    sudo_user={benyamin1200}--sudo user
     "invite",
     "all",
     "leave_ban",
